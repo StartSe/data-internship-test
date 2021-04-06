@@ -19,7 +19,7 @@ teste_2@teste.com | 522
 ### Exemplo de dados explicitos
 
 email | item_id | rating
------------- | -------------
+------------ | ------------- | -------------
 teste@teste.com | 480 | 5
 teste_2@teste.com | 522 | 2
 
